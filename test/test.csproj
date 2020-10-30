@@ -133,6 +133,7 @@
     </Compile>
     <Compile Include="Models\testDbContext.cs" />
     <Compile Include="Models\User.cs" />
+    <Compile Include="Models\WillyTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
